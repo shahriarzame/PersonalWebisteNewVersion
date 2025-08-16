@@ -10,7 +10,7 @@ authors:
 - Qing-Long Lu
 - Constantinos Antoniou
 
-date: 2025-12-01T00:00:00+00:00  # Month is December 2025; adjust as needed
+date: 2025-06-18T00:00:00+00:00  # Month is December 2025; adjust as needed
 
 publication_types: article-journal
 
@@ -41,7 +41,7 @@ featured: false
 links: []
 
 # (No PDF or code links provided)
-url_pdf: ""
+url_pdf: https://www.sciencedirect.com/science/article/pii/S2772424725000265?via%3Dihub
 slides: ""
 projects: []
 
