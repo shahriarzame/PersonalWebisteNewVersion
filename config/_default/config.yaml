@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yabin Da # Website name
-baseurl: "https://yabin-da.com/" # Website URL
-copyright: "Yabin Da&copy; {year}" # Footer text, e.g. '© {year} Me'
+title: Shahriar Iqbal Zame # Website name
+baseurl: "https:/shahriar-zame.com/" # Website URL
+copyright: "Shahriar Iqbal Zame&copy; {year}" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
