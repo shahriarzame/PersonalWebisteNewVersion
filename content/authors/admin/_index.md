@@ -6,7 +6,7 @@ title: Shahriar Iqbal Zame
 superuser: true
 
 # Role/position/tagline
-role: '[Doctoral Candidate & Research Associate](https://www.mos.ed.tum.de/vvs/mitarbeiterinnen/shahriar-iqbal-zame/)'
+role: Doctoral Candidate & Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
