@@ -221,24 +221,24 @@ sections:
     id: gallery
     content:
       title: Gallery
-      subtitle: ''
+      subtitle: 'Photos by Shahriar'
       text: |-
         {{< gallery album="photos" >}}
     design:
       columns: '2'
     
 
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      email: shahriar.zame@tum.de
-      address:
-        street: Parkring 37
-        city: 85748 Garching, Germany
-        country: Germany
-        country_code: DE
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     email: shahriar.zame@tum.de
+  #     address:
+  #       street: Parkring 37
+  #       city: 85748 Garching, Germany
+  #       country: Germany
+  #       country_code: DE
     
     #   # Automatically link email and phone or display as text?
     #   autolink: true

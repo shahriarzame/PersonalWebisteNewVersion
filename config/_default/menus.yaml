@@ -27,9 +27,9 @@ main:
     url: '#gallery'
     weight: 45
 
-  - name: "Contact"
-    url: '#contact'
-    weight: 50
+  # - name: "Contact"
+  #   url: '#contact'
+  #   weight: 50
     
   - name: "CV"
     url: "uploads/resume.pdf"
