@@ -42,7 +42,7 @@ featured: false
 links: []
 
 # (No PDF or code links provided)
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2772424725000265?via%3Dihub
+# url_pdf: https://www.sciencedirect.com/science/article/pii/S2772424725000265?via%3Dihub
 slides: ""
 projects: []
 

@@ -52,7 +52,7 @@ featured: false
 links: []
 
 # (No local PDF provided — linking to ResearchGate)
-url_pdf: https://www.researchgate.net/publication/394510662_UAM_siting_approach_considering_capacity_and_land_use_A_case_study_of_Munich?channel=doi&linkId=68a05c892c7d3e0029b11f6c&showFulltext=true
+# url_pdf: https://www.researchgate.net/publication/394510662_UAM_siting_approach_considering_capacity_and_land_use_A_case_study_of_Munich?channel=doi&linkId=68a05c892c7d3e0029b11f6c&showFulltext=true
 slides: ""
 projects: []
 

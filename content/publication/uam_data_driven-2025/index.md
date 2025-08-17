@@ -45,7 +45,7 @@ featured: false
 links: []
 
 # (No local PDF provided — linking to publisher)
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2667091725000196?via%3Dihub
+# url_pdf: https://www.sciencedirect.com/science/article/pii/S2667091725000196?via%3Dihub
 slides: ""
 projects: []
 
