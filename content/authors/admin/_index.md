@@ -18,7 +18,7 @@ bio: Research interests include agent-based simulations, optimization, mode choi
 
 # Interests to show in About widget
 interests:
-- Freight transport electrification and automation
+- Freight electrification and automation
 - Agent-based simulation (MATSim)
 - Optimization & choice modelling
 - Sustainable urban mobility
