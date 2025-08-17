@@ -13,19 +13,19 @@ main:
   - name: "Teaching"
     url: '#teaching'
     weight: 30
-  - name: "Useful Data"
-    url: '#data'
-    weight: 31
-  - name: "Notes in R"
-    url: '#notes_in_r'
-    weight: 32
+  # - name: "Useful Data"
+  #   url: '#data'
+  #   weight: 31
+  # - name: "Notes in R"
+  #   url: '#notes_in_r'
+  #   weight: 32
   - name: "Regular Posts"
     url: '#regular_post'
     weight: 33
 
-  - name: "Gallery"
-    url: '#gallery'
-    weight: 45
+  # - name: "Gallery"
+  #   url: '#gallery'
+  #   weight: 45
 
   - name: "Contact"
     url: '#contact'
