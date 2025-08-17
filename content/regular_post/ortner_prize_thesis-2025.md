@@ -1,33 +1,31 @@
 ---
-
-title: Honored with the Johannes B. Ortner-Stiftung Master’s Thesis Award
-author: Shahriar Iqbal Zame
-date: '2025-08-05'
+title: "Honored with the Johannes B. Ortner-Stiftung Master’s Thesis Award"
+author: "Shahriar Iqbal Zame"
+date: 2025-08-05
 slug: honored-with-ortner-stiftung-award
-categories: \[]
+categories: []
 tags:
-
-* Award
-* Recognition
-* TUM
-* Johannes B. Ortner-Stiftung
-  subtitle: ''
-  summary: ''
-  authors: \[]
-  lastmod: '2025-08-05T00:00:00-06:00'
-  featured: no
-  image:
-  caption: ''
-  focal\_point: ''
-  preview\_only: no
-  projects: \[]
+  - Award
+  - Recognition
+  - TUM
+  - Johannes B. Ortner-Stiftung
+subtitle: ""
+summary: ""
+authors: []
+lastmod: 2025-08-05T00:00:00-06:00
+featured: false
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+projects: []
 
 output:
-blogdown::html\_page:
-toc: true
-toc\_depth: 4
-
+  blogdown::html_page:
+    toc: true
+    toc_depth: 4
 ---
+
 
 ### A Special Recognition
 
