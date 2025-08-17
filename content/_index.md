@@ -99,69 +99,69 @@ sections:
       columns: '2'
 
 
-  - block: collection
-    id: data
-    content:
-      title: Useful Data
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
-      filters:
-        folders:
-          - data
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: data
+  #   content:
+  #     title: Useful Data
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 3
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - data
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
 
 
-  - block: collection
-    id: notes_in_r
-    content:
-      title: Notes in R
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
-      filters:
-        folders:
-          - notes_in_r
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
+  # - block: collection
+  #   id: notes_in_r
+  #   content:
+  #     title: Notes in R
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 3
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - notes_in_r
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: '2'
 
 
   - block: collection
     id: regular_post
     content:
-      title: Regular Posts
-      subtitle: 'Although not regular anymore'
+      title: Blog
+      subtitle: 'Write-ups from Shahriar'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
@@ -202,12 +202,12 @@ sections:
     content:
       title: Contact
       subtitle:
-      email: dayabin@ruc.edu.cn
+      email: shahriar.zame@tum.de
       address:
-        street: 59 Zhongguancun Street
-        city: Beijing
-        country: China
-        country_code: CN
+        street: Parkring 37
+        city: 85748 Garching
+        country: Germany
+        country_code: DE
     
       # Automatically link email and phone or display as text?
       autolink: true
