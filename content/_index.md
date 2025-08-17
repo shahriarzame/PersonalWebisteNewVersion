@@ -236,20 +236,20 @@ sections:
       email: shahriar.zame@tum.de
       address:
         street: Parkring 37
-        city: 85748 Garching
+        city: 85748 Garching, Germany
         country: Germany
         country_code: DE
     
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+    #   # Automatically link email and phone or display as text?
+    #   autolink: true
+    #   # Email form provider
+    #   form:
+    #     provider: netlify
+    #     formspree:
+    #       id:
+    #     netlify:
+    #       # Enable CAPTCHA challenge to reduce spam?
+    #       captcha: false
+    # design:
+    #   columns: '2'
 ---
