@@ -5,7 +5,7 @@ title: "A sustainable multi-objective framework for multi-phased, capacitated ve
 
 authors:
 - Hao Wu
-- Shahriar Iqbal Zame
+- admin
 - Tao Guo
 - Qing-Long Lu
 - Constantinos Antoniou

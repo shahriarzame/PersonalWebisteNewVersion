@@ -6,7 +6,7 @@ title: "Data-driven vertiport siting: A comparative analysis of clustering metho
 authors:
 - Tao Guo
 - Hao Wu
-- Shahriar Iqbal Zame
+- admin
 - Constantinos Antoniou
 
 date: 2025-06-26T00:00:00+00:00  # Publication date (June 26, 2025)

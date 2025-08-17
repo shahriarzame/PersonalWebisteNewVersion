@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The role of carbon trading market on energy poverty alleviation in rural area in China"
+title: "Developing and testing robust data-driven car-following models"
 authors:
-- Shuo Zhang
+- Filippos Adamidis
 - admin
 date: 2024-07-18T22:45:47-06:00
 #doi:
