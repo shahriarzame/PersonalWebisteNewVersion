@@ -50,4 +50,4 @@ I am grateful to the organizing team, participants, and sponsors for making this
 
 Here’s to continuing the dialogue, advancing the science of transportation, and building networks that will shape the future of mobility. 🚀  
 
-![hEART 2025 at TUM](/regular_post/heart2025-photo.jpg)
+![hEART 2025 at TUM](heart2025-photo.jpg)
