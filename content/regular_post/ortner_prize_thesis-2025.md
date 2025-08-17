@@ -1,6 +1,6 @@
 ---
 title: "Honored with the Johannes B. Ortner-Stiftung Master’s Thesis Award"
-author: "Shahriar Iqbal Zame"
+author: admin
 date: 2025-08-05
 slug: honored-with-ortner-stiftung-award
 categories: []

@@ -4,7 +4,9 @@
 title: "UAM siting approach considering capacity and land use: A case study of Munich"
 
 authors:
-- Shahriar Iqbal Zame
+- admin
+- Hao Wu
+- Tao Guo
 - Constantinos Antoniou
 
 date: 2022-10-01T00:00:00+00:00  # Publication date (October 2022, adjust if needed)

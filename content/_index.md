@@ -49,7 +49,7 @@ sections:
     id: projects
     content:
       title: Projects
-      subtitle: 'Projects by Shahriar'
+      subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
@@ -87,18 +87,18 @@ sections:
       columns: '2'
       view: citation
     
-  - block: collection
-    id: workingpaper
-    content:
-      title: Working Papers
-      filters:
-        publication_type: manuscript
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   id: workingpaper
+  #   content:
+  #     title: Working Papers
+  #     filters:
+  #       publication_type: manuscript
+  #       folders:
+  #         - publication
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
 
   # - block: collection
   #   id: teaching
