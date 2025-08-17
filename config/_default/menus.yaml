@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: "Working papers"
-    url: '#workingpaper'
-    weight: 21
+  - name: "Projects"
+    url: '#projects'
+    weight: 15
   - name: "Publications"
     url: '#publication'
     weight: 20
@@ -23,9 +23,9 @@ main:
     url: '#regular_post'
     weight: 33
 
-  # - name: "Gallery"
-  #   url: '#gallery'
-  #   weight: 45
+  - name: "Gallery"
+    url: '#gallery'
+    weight: 45
 
   - name: "Contact"
     url: '#contact'
