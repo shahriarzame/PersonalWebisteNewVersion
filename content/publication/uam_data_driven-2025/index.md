@@ -20,7 +20,7 @@ doi: https://doi.org/10.1016/j.urbmob.2025.100117
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
-publication_types: ["2"]
+publication_types: article-journal
 
 publication: "Journal of Urban Mobility, Vol. 7"
 publication_short: ""
