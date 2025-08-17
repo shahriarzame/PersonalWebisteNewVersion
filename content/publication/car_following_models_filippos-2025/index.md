@@ -5,6 +5,8 @@ title: "Developing and testing robust data-driven car-following models"
 authors:
 - Filippos Adamidis
 - admin
+- Constantinos Antoniou
+
 date: 2024-07-18T22:45:47-06:00
 #doi:
 
