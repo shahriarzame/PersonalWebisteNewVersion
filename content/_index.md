@@ -227,10 +227,10 @@ sections:
       subtitle:
       email: shahriar.zame@tum.de
       address:
-        street: Parkring 37, 
-        city: 85748 Garching
-        country: Germany
-        country_code: DE
+        # street: 59 Zhongguancun Street
+        # city: Beijing
+        # country: China
+        # country_code: CN
     
       # Automatically link email and phone or display as text?
       autolink: true
