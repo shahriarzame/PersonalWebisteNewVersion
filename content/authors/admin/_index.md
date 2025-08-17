@@ -58,6 +58,13 @@ social:
   icon_pack: fab
   link: https://www.youtube.com/playlist?list=PLUJcc6z0MrkysWa11tvMPsF8jAyMtNYn8
 
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "shahriar.zame@tum.de"
 
