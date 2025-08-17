@@ -1,26 +1,26 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Data-driven vertiport siting: A comparative analysis of clustering methods for Urban Air Mobility
+title: "Data-driven vertiport siting: A comparative analysis of clustering methods for Urban Air Mobility"
 
 authors:
-- Tao Guo 
-- Hao Wu 
-- admin 
+- Tao Guo
+- Hao Wu
+- admin
 - Constantinos Antoniou
 
-date: 2025-06-26T00:00:00+00:00  # Publication date (October 2022, adjust if needed)
+date: 2025-06-26T00:00:00+00:00  # Publication date (June 26, 2025)
 doi: https://doi.org/10.1016/j.urbmob.2025.100117
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: 2022-10-01T22:45:34-06:00
+# publishDate: 2025-06-26T22:45:34-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 
-publication_types: article-journal
+publication_types: ["2"]
 
 publication: "Journal of Urban Mobility, Vol. 7"
 publication_short: ""
@@ -31,11 +31,11 @@ abstract: >-
 summary: ""
 
 tags:
-- "Urban air mobility" 
-- "Vertiport siting" 
-- "Clustering" 
-- "Accessibility" 
-- "Transport equity" 
+- "Urban air mobility"
+- "Vertiport siting"
+- "Clustering"
+- "Accessibility"
+- "Transport equity"
 - "Munich"
 
 categories: []
@@ -44,7 +44,7 @@ featured: false
 
 links: []
 
-# (No local PDF provided — linking to ResearchGate)
+# (No local PDF provided — linking to publisher)
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2667091725000196?via%3Dihub
 slides: ""
 projects: []
