@@ -48,9 +48,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/shahriarzame
-- icon: orcid
+- icon: google-scholar
   icon_pack: ai
-  link: https://orcid.org/0000-0002-7323-9771
+  link: https://scholar.google.com/citations?hl=en&user=gHXJno4AAAAJ&scilu=&scisig=ACUpqDcAAAAAaKQ0oDE0SnWeBMh3S6FC73Ho42M&gmla=AH8HC4yi2xeMK60hHJZWhWgvVC3NAwWsD5o5db8Tcm8iISo-SRsQybVBvuIoJRSjNslZEcmS4dZdCCc2I-QFhte4c3kVGTr0v6qajyd94ME&sciund=16801263704222918830
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Shahriar-Zame-2?ev=hdr_xprf
